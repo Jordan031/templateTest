@@ -1,0 +1,3 @@
+[submodule "mernEx"]
+	path = mernEx
+	url = https://github.com/ninadpchaudhari/mern.git
